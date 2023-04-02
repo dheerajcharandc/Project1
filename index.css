@@ -1,0 +1,160 @@
+body{
+margin:0;
+}
+#First-container{
+background-color: #FFCD9E;
+height: 70vh;
+}
+
+#Second-container{
+background-color: black;
+height: 30vh;
+}
+#heading{
+position: absolute;
+width: 562px;
+height: 108px;
+left: 136px;
+top: 83px;
+}
+#content{
+position: absolute;
+width: 495px;
+height: 81px;
+left: 136px;
+top: 219px
+}
+#image{
+position: absolute;
+left: 70.98%;
+right: 15.58%;
+top: 9.55%;
+bottom: 15.51%;
+width: 250px;
+height: 350px;
+}
+#email{
+box-sizing: border-box;
+position: absolute;
+width: 300px;
+height: 50px;
+left: 136px;
+top: 360px;
+background: #FFFFFF;
+border: 4px solid #000000;
+border-radius: 8px;
+text-align: center;
+margin-right:3px;
+}
+#button{
+position: absolute;
+width: 216px;
+height: 50px;
+left: 460px;
+top: 360px;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+color:#FFFFFF;
+background-color: black;
+border-radius: 8px;
+}
+#para{
+position: absolute;
+width: 216px;
+height: 36px;
+left: 191px;
+top: 430px;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+color: white;
+}
+#parag{
+position: absolute;
+width: 232px;
+height: 36px;
+left: 1000px;
+top: 430px;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+text-align: right;
+color: white;
+}
+#em{
+position: absolute;
+width: 232px;
+height: 36px;
+left: 1000px;
+top: 555px;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+text-align: right;
+color: #FFFFFF;
+}   
+#sec-heading{
+position: absolute;
+width: 227px;
+height: 81px;
+left: 136px;
+top: 260px;
+line-height: 160%;
+display: flex;
+align-items: center;
+}
+#mouth{
+position:absolute ;
+left: 1087.5px;
+top: 190px;
+width:26.12px;
+height: 7.26px;
+}
+#eyes1{
+position: absolute;
+height: 12px;
+width: 7.82714319229126px;
+left: 1085.2081298828125px;
+top: 140.18603515625px;
+border-radius: 0px;
+}
+#eyes2{
+position: absolute;
+height: 12px;
+width: 7.82714319229126px;
+left: 1107.2081298828125px;
+top: 140.18603515625px;
+border-radius: 0px; 
+}
+#nose{
+position: absolute;
+height: 37.69148254394531px;
+width: 8.451997756958008px;
+left: 1095.9627685546875px;
+top: 150.7154541015625px;
+border-radius: 0px;
+}
+#eyebrow2{
+position: absolute;
+height: 7.0450639724731445px;
+width: 25.38921356201172px;
+left: 1100.2081298828125px;
+top: 133.18603515625px;
+border-radius: 0px;
+}
+#eyebrow1{
+position: absolute;
+height: 7.0450639724731445px;
+width: 25.38921356201172px;
+left: 1076.2081298828125px;
+top: 133.18603515625px;
+border-radius: 0px;
+}
